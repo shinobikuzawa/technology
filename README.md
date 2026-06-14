@@ -1,1 +1,1 @@
-# technology.github.io
+# technology
